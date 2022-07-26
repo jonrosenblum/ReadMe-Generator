@@ -9,9 +9,15 @@ License
 ## Installation
 To install this project, navigate to your comand line console (for simplicity we will assume you are using terminal) and:
 
-## Clone this repository.
-git clone git@github.com:jonrosenblum/README.git
+Clone this repository.
+**git clone git@github.com:jonrosenblum/README.git**
 ensure you have installed node.js by checking the version.
+**node -v**
+if it has not been installed please navigate to https://nodejs.org/en/download/. lastly, ensure you have installed the node pkg inquirer.js version 8.2.4 or higher.
+**npm inquierer -v**
+if it has not been installed, install it.
+**npm install inquirer**
+
 
 ## Credits
 This project is derivative of the following starter code: https://github.com/coding-boot-camp/potential-enigma
