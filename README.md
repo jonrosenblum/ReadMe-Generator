@@ -4,7 +4,7 @@
 
 This project leverages node.js to allow an end user to generate a README markdown file from the command line.
 
-[![demo]https://user-images.githubusercontent.com/102688072/181345079-60bdc514-dea8-4d97-a886-2a9c9c7a7f20.mov
+https://user-images.githubusercontent.com/102688072/181345079-60bdc514-dea8-4d97-a886-2a9c9c7a7f20.mov
 
 
 
