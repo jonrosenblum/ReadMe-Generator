@@ -6,8 +6,6 @@ This project leverages node.js to allow an end user to generate a README markdow
 
 https://user-images.githubusercontent.com/102688072/181345079-60bdc514-dea8-4d97-a886-2a9c9c7a7f20.mov
 
-
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -22,7 +20,7 @@ To install this project, navigate to your comand line console (for simplicity we
 Clone this repository.
 
 ```md
-git clone git@github.com:jonrosenblum/README.git
+git clone git@github.com:jonrosenblum/readme-generator.git
 ```
 
 ensure you have installed node.js by checking the version.
